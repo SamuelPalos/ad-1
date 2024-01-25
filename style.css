@@ -1,0 +1,93 @@
+.hero-image {
+    background-image: url(img/hero_img.jpg);
+}
+
+.hero-text {
+    padding: 1% 0% 5% 3%;
+    color: #FFFFFF;
+}
+
+.hero-text button {
+    background-color: #FFA420;
+    border: none;
+    outline: 0;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+
+.toolkit button {
+    background-color: #FFA420;
+    border: none;
+    outline: 0;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+
+.rates {
+    text-align: left;
+    padding: 45px 20px 0px 20px;
+    margin-left: 20%;
+    font-family: Smooch Sans;
+    font-size: 17px;
+}
+
+.paragraph2 {
+    text-align: left;
+    padding: 0px 20px;
+    margin-left: 20%;
+    font-family: Smooch Sans;
+    font-size: 17px;
+}
+
+.par3 {
+    text-align: left;
+    padding: 0px 20px;
+    margin-left: 20%;
+    font-family: Smooch Sans;
+    font-size: 17px;
+}
+
+.bullet {
+    margin-left: 23%;
+}
+
+.last {
+    text-align: left;
+    padding: 0px 20px;
+    margin-left: 20%;
+    font-family: Smooch Sans;
+    font-size: 17px;
+}
+
+.toolkit {
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    outline: 0;
+    margin: 5%;
+}
+
+body {
+    background-color:#D3D3D3;
+}
+
+.link1 {
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.link2 {
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.link3 {
+    font-family: Roboto;
+    font-size: 15px;
+}
