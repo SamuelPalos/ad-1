@@ -1,5 +1,7 @@
 .hero-image {
     background-image: url("hero_img.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 .hero-text {
@@ -22,45 +24,42 @@
     background-color: #FFA420;
     border: none;
     outline: 0;
-    display: inline-block;
-    text-align: center;
     cursor: pointer;
     padding: 10px 25px;
     border-radius: 5px;
 }
 
 .rates {
-    text-align: left;
+    text-align: center;
     padding: 45px 20px 0px 20px;
-    margin-left: 20%;
     font-family: Smooch Sans;
     font-size: 17px;
 }
 
 .paragraph2 {
-    text-align: left;
+    text-align: center;
     padding: 0px 20px;
-    margin-left: 20%;
     font-family: Smooch Sans;
     font-size: 17px;
 }
 
 .par3 {
-    text-align: left;
+    text-align: center;
     padding: 0px 20px;
-    margin-left: 20%;
     font-family: Smooch Sans;
     font-size: 17px;
 }
 
 .bullet {
-    margin-left: 23%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .last {
-    text-align: left;
+    text-align: center;
     padding: 0px 20px;
-    margin-left: 20%;
     font-family: Smooch Sans;
     font-size: 17px;
 }
@@ -75,6 +74,7 @@
 
 body {
     background-color:#D3D3D3;
+    width: 100%;
 }
 
 .link1 {
